@@ -24,13 +24,13 @@ namespace crud2
                 //aye lmao
                 string showAll = "Select * FROM user";
 
-                //
+                //sdasdada
                 MySqlConnection connect = new MySqlConnection(database);
 
-                //
+                //asdasda
                 MySqlCommand command = new MySqlCommand(showAll, connect);
 
-                //
+                //asdasd
                 MySqlDataAdapter adapter = new MySqlDataAdapter();
 
                 adapter.SelectCommand = command;
