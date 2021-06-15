@@ -21,7 +21,7 @@ namespace crud2
         {
             try
             {
-                //hello
+                //aye lmao
                 string showAll = "Select * FROM user";
 
                 //
